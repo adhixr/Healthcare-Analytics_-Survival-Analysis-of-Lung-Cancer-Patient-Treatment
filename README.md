@@ -1,6 +1,4 @@
 # Healthcare-Analytics_-Survival-Analysis-of-Lung-Cancer-Patient-Treatment
-
-
 This project is to understand the effect of chemotherapy (standard treatment) vs chemotherapy combined with a new drug (test treatment) on the Veteran's Administration Lung Cancer Trial data which consists of data of 137 patients with advanced, inoperable lung cancer who underwent this treatment.
 
 Data Source :
