@@ -24,7 +24,7 @@ From the Kaplan-Meier survival graphs, we can draw the following inferences-
 R packages :
 ggsurvplot,survminer,survival,stargazer
 
-FINAL INTERPRETATION & RECOMMENDATION
+FINAL INTERPRETATIONS & RECOMMENDATION
 
 •	The new drug treatment increases death risk of patient by 33.8% for patients with celltype1(squamous), 161.3% for celltype2(small cell),101.4% for celltype3(adeno) and 161.7% for patients with celltype4(large cell). 
 
